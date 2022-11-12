@@ -1,13 +1,8 @@
 {
 	"name": "Discord_Dark",
 	"description": "A Github Dark Theme for Discord Mobile",
-	"version": "1.16",
+	"version": "1.17",
 	"authors": [{ "name": "SyndiShanX#4620", "id": "178394162381455360" }],
-	"background": {
-		"blur": 0,
-		"url": "https://syndishanx.github.io/Discord-Dark/Enmity/Background.png",
-		"alpha": 1.0
-	},
 	"theme_color_map": {
 		"KEYBOARD": [ "rgba(0, 0, 0, 0.5)", "rgba(0, 0, 0, 0.5)" ],
 		"HEADER_PRIMARY": [ "#FFFFFF", "#FFFFFF" ],
@@ -18,15 +13,15 @@
 		"INTERACTIVE_HOVER": [ "#DCDDDE", "#DCDDDE" ],
 		"INTERACTIVE_ACTIVE": [ "#FFFFFF", "#FFFFFF" ],
 		"INTERACTIVE_MUTED": [ "#4F545C", "#4F545C" ],
-		"BACKGROUND_PRIMARY": [ "#1A1A1A", "#1A1A1A" ],
-		"BACKGROUND_SECONDARY": [ "#1A1A1A", "#1A1A1A" ],
-		"BACKGROUND_SECONDARY_ALT": [ "#1A1A1A", "#1A1A1A" ],
+		"BACKGROUND_PRIMARY": [ "#000000", "#000000" ],
+		"BACKGROUND_SECONDARY": [ "#000000", "#000000" ],
+		"BACKGROUND_SECONDARY_ALT": [ "#000000", "#000000" ],
 		"BACKGROUND_TERTIARY": [ "#232323", "#232323" ],
 		"BACKGROUND_ACCENT": [ "#4F545C", "#4F545C" ],
-		"BACKGROUND_FLOATING": [ "#1A1A1A", "#1A1A1A" ],
-		"BACKGROUND_MOBILE_PRIMARY": [ "#1A1A1A", "#1A1A1A" ],
-		"BACKGROUND_MOBILE_SECONDARY": [ "#1A1A1A", "#1A1A1A" ],
-		"BACKGROUND_NESTED_FLOATING": [ "#1A1A1A", "#1A1A1A" ],
+		"BACKGROUND_FLOATING": [ "#000000", "#000000" ],
+		"BACKGROUND_MOBILE_PRIMARY": [ "#000000", "#000000" ],
+		"BACKGROUND_MOBILE_SECONDARY": [ "#000000", "#000000" ],
+		"BACKGROUND_NESTED_FLOATING": [ "#000000", "#000000" ],
 		"BACKGROUND_MODIFIER_ACTIVE": [ "rgba(255, 255, 255, 0.4)", "rgba(255, 255, 255, 0.4)" ],
 		"BACKGROUND_MODIFIER_SELECTED": [ "rgba(255, 255, 255, 0.2)", "rgba(255, 255, 255, 0.2)" ],
 		"BACKGROUND_MODIFIER_ACCENT": [ "rgba(79, 84, 92, 0.48)", "rgba(79, 84, 92, 0.48)" ],
@@ -54,6 +49,6 @@
 		"WHITE": "#FFFFFF"
 	},
 	"unsafe_colors": {
-		"CHAT_GREY": "#1A1A1A"
+		"CHAT_GREY": "#000000"
 	}
 }

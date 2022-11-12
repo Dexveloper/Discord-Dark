@@ -1,4 +1,4 @@
-![Icon](https://syndishanx.github.io/Discord-Dark/Images/Discord-Dark-Icon.png)
+![Icon](https://dexveloper.github.io/Discord-Dark/Images/Discord-Dark-Icon.png)
 
 A Github Dark Theme for Discord
 
@@ -18,10 +18,10 @@ Copy discorddark.theme.css into your Better Discord Themes Folder
 
 Click on the copy button and add to Enmity
 ```
-https://syndishanx.github.io/Discord-Dark/Enmity/Discord_Dark.json
+https://dexveloper.github.io/Discord-Dark/Enmity/Discord_Dark.json
 ```
 ```
-https://syndishanx.github.io/Discord-Dark/Enmity/Discord_Light.json
+https://dexveloper.github.io/Discord-Dark/Enmity/Discord_Light.json
 ```
 
 Note:
